@@ -3,7 +3,6 @@
 <!--
 **EL1VAS/EL1VAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on how to bring my ideas into fruition
 - 🌱 I’m currently learning HTML, CSS and Javascript
