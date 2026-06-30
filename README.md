@@ -4,12 +4,12 @@
 **EL1VAS/EL1VAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on how to bring my ideas into fruition
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 👯 I’m looking to collaborate on any project that will triger my passion
-- 🤔 I’m looking for help with making people feel heard
+- 🔭 Currently working on how to bring my ideas into fruition.
+- 🌱 Expanding my horizons by learning HTML, CSS and Javascript, Java and a little Python.
+- 👯 I’m looking to collaborate on any project that will triger my passion.
+- 🤔 I love it when people break their limitations
 - 💬 Ask me about traveling and music
-- 📫 How to reach me: el1vas@yahoo.gr
+- 📫 How to reach me: elena.vasileia.dev@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Octapuses 🐙 have three hearts and shrimp's heart is located at their head 🦐
+- ⚡ Fun fact: Octapuses 🐙 have three hearts and a shrimp's heart is located at their head 🦐
 -->
