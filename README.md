@@ -84,7 +84,7 @@ class Developer {
 <table>
   <tr>
     <td width="15%" align="center" valign="middle">
-      🍽️
+      <img src="./assets/reciplanLogo.png" alt="Reciplan Logo" width="100" />
     </td>
     <td width="85%" valign="middle">
       <strong>Reciplan</strong> — a recipe planning application focused on backend structure, clean API design, and practical organization of recipe-related data.<br/><br/>
