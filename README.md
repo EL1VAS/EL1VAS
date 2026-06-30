@@ -68,7 +68,7 @@ class Developer {
 
 ### IDE & Version Control
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=idea,git,github&perline=3" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github&perline=4" />
 </a>
 
 </div>
