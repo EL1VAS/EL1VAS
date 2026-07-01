@@ -94,8 +94,6 @@ class Developer {
   </tr>
 </table>
 
-> Currently private and actively being developed.
-
 ---
 
 ## 💫 Things I Enjoy Building
